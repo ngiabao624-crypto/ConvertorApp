@@ -64,4 +64,7 @@ const fahrenheitButton = document.getElementById("fahrenheit-button") as HTMLBut
 const fahrenheitResult = document.getElementById("fahrenheit-result") as HTMLParagraphElement;
 
 
+//add other main here (delete it after ur done)
+
+
 
